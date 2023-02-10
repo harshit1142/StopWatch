@@ -1,2 +1,2 @@
-# CClub
-Learning class
+# StopWatch
+A basic StopWatch
