@@ -1,0 +1,33 @@
+body{
+    background-color: grey;
+}
+h1{
+    text-align: center;
+    font-size: 150px;
+    color: rgb(158, 24, 24);
+}
+h2{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(67, 9, 241);
+}
+.heading{
+    color: rgb(12, 39, 172);
+}
+.box {
+      text-align: center;
+      font-size: 100px;
+    }
+
+ .btn{
+        font-size: 100px;
+        background-color: rgb(26, 25, 24);  
+        border-radius: 40px;      
+        color: rgb(243, 243, 238);
+        margin: 5px;
+        padding: 10px 34px;
+}
+.btn:hover{
+    background-color: white;
+    color: black;
+}
