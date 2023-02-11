@@ -1,6 +1,4 @@
-var nam=prompt("Enter your name");
 
-document.getElementsByClassName("named")[0].textContent="Welcome "+nam;
 var timerRunning=false;
 var seconds=0;
 var minutes=0;
